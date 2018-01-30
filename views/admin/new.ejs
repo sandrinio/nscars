@@ -76,15 +76,22 @@
             <textarea class="form-control" id="exampleFormControlTextarea1" v-model="comment"></textarea>
         </div>
         <div class="row">
-            <div class="col-md-1 thumbnail" v-if="photos" v-for="(photo, index) in photos">
+            <div class="col-1 thumbnail" v-if="photos" v-for="(photo, index) in photos">
                 <img style="width: 75px" :src="photo" alt="" @click="removeImage(index)" class="img-thumbnail">
             </div>
-            <div class="col-md-3">
+            <div class="col-md-6">
                 <div class="custom-file">
                     <input type="file" class="custom-file-input" @change="onFileChange" id="customFile">
                     <label class="custom-file-label" for="customFile">Choose file</label>
                 </div>
             </div>
+            <!--<div class="col-md-3">-->
+                <!--<div class="custom-file">-->
+                    <!--<input type="file" class="custom-file-input" @change="onTestFile" id="customFile">-->
+                    <!--<label class="custom-file-label" for="customFile">Choose test file</label>-->
+                <!--</div>-->
+            <!--</div>-->
+
         </div>
         <div class="col-md-10"></div>
         <button class="btn btn-outline-dark" @click="logIt">Submit</button>
