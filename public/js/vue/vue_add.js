@@ -17,7 +17,8 @@ new Vue({
 						comment: '',
 						photos: [],
 						error: null,
-						file: []
+						file: [],
+						price: ''
 				}
 		},
 		methods: {
@@ -32,6 +33,7 @@ new Vue({
 						fdata.append('engine', this.engine)
 						fdata.append('comment', this.comment)
 						fdata.append('features', this.checkedFeature)
+						fdata.append('price', this.price)
 						for(let i = 0; i < this.file.length; i++){
 								fdata.append('photos', this.file[i])
 						}
@@ -43,6 +45,7 @@ new Vue({
 								odometer: this.odometer,
 								engine: this.engine,
 								comment: this.comment,
+								price: this.price
 						}
 
 						const allFieldsFilled = Object

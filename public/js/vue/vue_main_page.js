@@ -6,7 +6,7 @@ new Vue({
 		el: '#app',
 		data() {
 				return {
-					transports: []
+						transports: []
 				}
 		},
 		methods: {
@@ -21,7 +21,6 @@ new Vue({
 								response.data.forEach(function (t) {
 									_this.transports.push(t)
 								})
-								 console.log(this.transports)
 						 })
 						 .catch((err) => {
 							console.log(err)

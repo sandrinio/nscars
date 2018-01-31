@@ -18,7 +18,7 @@ router.get('/', (req, res) => {
 })
 
 router.get('/admin', (req, res) => {
-		res.render('admin/main')
+				res.render('admin/main')
 })
 
 router.get('/transports', (req, res) => {
@@ -36,7 +36,7 @@ router.post('/newTransport', upload.any('photos'), (req, res) => {
 		const data = req.body
 		data.photos = []
 		req.files.forEach(function (pics) {
-				data.photos.push(pics.path)
+				data.photos.push(pics.filename)
 		})
 		Car.create(data, function (err, result) {
 				if(err){

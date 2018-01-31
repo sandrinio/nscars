@@ -2,18 +2,20 @@
 <div class="container">
 
     <div class="text-center">
+        <hr>
         <h3>თბილისში</h3>
+        <hr>
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12 col-xxs-12" v-for="transport in transports">
                 <div class="car-image">
-                    <img :src="transport.photos[0]" alt="">
+                    <img :src="'../../uploads/' + transport.photos[0]">
                 </div>
                 <div class="car-details">
                     <div class="car-meta-top">
                         <div class="car-mark">
-                            {{transport.mark}}
+                            {{transport.year}} {{transport.mark}} {{transport.model}}
                         </div>
-                        <div class="car-price">$3500</div>
+                        <div class="car-price">${{transport.price}}</div>
                     </div>
                     <div class="car-meta-bottom">
                     </div>
@@ -22,7 +24,9 @@
         </div>
     </div>
     <div class="text-center">
+        <hr>
         <h3>გზაში</h3>
+        <hr>
         <div class="row">
             <div class="col-md-3 col-sm-4 col-xs-12 col-xxs-12">
                 <div class="car-image">
