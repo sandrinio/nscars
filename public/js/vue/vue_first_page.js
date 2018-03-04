@@ -1,3 +1,6 @@
+const api = axios.create({
+		baseURL: 'http://localhost:3000'
+});
 
 new Vue({
 		el: '#content',
@@ -7,7 +10,8 @@ new Vue({
 						engine: null,
 						hybrid: false,
 						total: null,
-						warning: false
+						warning: false,
+						transports: []
 				}
 		},
 		methods: {
@@ -64,6 +68,18 @@ new Vue({
 						}
 
 				}
+		},
+		mounted() {
+				let _this = this
+				api.get('/getTransports')
+						 .then((response) => {
+								 response.data.forEach(function (t) {
+										 _this.transports.push(t)
+								 })
+						 })
+						 .catch((err) => {
+								 console.log(err)
+						 })
 		}
 })
 

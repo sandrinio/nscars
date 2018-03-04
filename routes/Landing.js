@@ -21,7 +21,7 @@ router.get('/admin', (req, res) => {
 				res.render('admin/main')
 })
 
-router.get('/transports', (req, res) => {
+router.get('/getTransports', (req, res) => {
 		Car.find({}, function (err, result) {
 				if(err)return res.send({error: err})
 				res.send(result)

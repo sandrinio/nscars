@@ -4,18 +4,21 @@
     height: 150px;
 }
 
-.car-image img{
-    width: 155px;
+.transport-container img{
+    width: 100%;
 }
 
 .car-mark {
-    float: left;
+    /*float: left;*/
     font-weight: 600;
 }
 
 .car-price {
-    float: right;
     font-weight: 800;
     color: forestgreen;
     font-size: 14px;
+}
+
+.transport-container {
+    max-width: 170px;
 }

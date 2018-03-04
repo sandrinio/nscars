@@ -2,28 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a13c6e8-0a1a-4dcf-9966-46ae78ca9a80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517329707685-IMG_3503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517329707713-Passport image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517331364184-Screen Shot 2018-01-22 at 7.55.10 PM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517331364193-IMG_3503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517335874875-IMG_3503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517335874886-Passport image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517336078811-Passport image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517336078820-IMG_3503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517336464310-IMG_3503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517336464329-Screen Shot 2018-01-22 at 7.55.10 PM.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517337083316-IMG_3503.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517337083326-Passport image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517338098647-Passport image.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/uploads/1517338098655-IMG_3503.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/models/Car.js" afterPath="$PROJECT_DIR$/models/Car.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vue/vue_add.js" afterPath="$PROJECT_DIR$/public/js/vue/vue_add.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/myCSS/myCSS.css" afterPath="$PROJECT_DIR$/public/css/myCSS/myCSS.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vue/vue_first_page.js" afterPath="$PROJECT_DIR$/public/js/vue/vue_first_page.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/vue/vue_main_page.js" afterPath="$PROJECT_DIR$/public/js/vue/vue_main_page.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/Landing.js" afterPath="$PROJECT_DIR$/routes/Landing.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/main.ejs" afterPath="$PROJECT_DIR$/views/admin/main.ejs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/admin/new.ejs" afterPath="$PROJECT_DIR$/views/admin/new.ejs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/landing/index.ejs" afterPath="$PROJECT_DIR$/views/landing/index.ejs" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,28 +25,38 @@
       <file leaf-file-name="Landing.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/Landing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2">
-              <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+            <state relative-caret-position="0">
+              <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vue_main_page.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/js/vue/vue_main_page.js">
+      <file leaf-file-name="vue_first_page.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/vue/vue_first_page.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.ejs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/admin/main.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+            <state relative-caret-position="210">
+              <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myCSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/myCSS/myCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -70,8 +65,18 @@
       <file leaf-file-name="new.ejs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/admin/new.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2">
-              <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+            <state relative-caret-position="301">
+              <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vue_add.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/js/vue/vue_add.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -99,7 +104,6 @@
       <find>section-work</find>
       <find>slider</find>
       <find>content</find>
-      <find>button</find>
       <find>contact</find>
       <find>calcula</find>
       <find>separa</find>
@@ -116,6 +120,9 @@
       <find>side-panel</find>
       <find>console.log</find>
       <find>@</find>
+      <find>button</find>
+      <find>prevent</find>
+      <find>form</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -131,24 +138,25 @@
         <option value="$PROJECT_DIR$/public/css/style.css" />
         <option value="$PROJECT_DIR$/public/css/onepage.css" />
         <option value="$PROJECT_DIR$/public/js/vue/vue_test.js" />
-        <option value="$PROJECT_DIR$/public/css/myCSS/myCSS.css" />
         <option value="$PROJECT_DIR$/public/js/axios.js" />
         <option value="$PROJECT_DIR$/public/js/vue/services/uploadPhoto.js" />
         <option value="$PROJECT_DIR$/public/js/vue/services/photoUpload.js" />
         <option value="$PROJECT_DIR$/public/js/vue/services/Car.js" />
         <option value="$PROJECT_DIR$/public/js/vue/services/Api.js" />
         <option value="$PROJECT_DIR$/views/partials/Header.ejs" />
-        <option value="$PROJECT_DIR$/views/landing/index.ejs" />
         <option value="$PROJECT_DIR$/public/js/vue/Api.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/views/partials/Footer.ejs" />
-        <option value="$PROJECT_DIR$/routes/Landing.js" />
-        <option value="$PROJECT_DIR$/public/js/vue/vue_main_page.js" />
         <option value="$PROJECT_DIR$/models/Car.js" />
         <option value="$PROJECT_DIR$/views/admin/new.ejs" />
         <option value="$PROJECT_DIR$/public/js/vue/vue_add.js" />
+        <option value="$PROJECT_DIR$/public/css/myCSS/myCSS.css" />
         <option value="$PROJECT_DIR$/views/admin/main.ejs" />
+        <option value="$PROJECT_DIR$/routes/Landing.js" />
+        <option value="$PROJECT_DIR$/public/js/vue/vue_main_page.js" />
+        <option value="$PROJECT_DIR$/public/js/vue/vue_first_page.js" />
+        <option value="$PROJECT_DIR$/views/landing/index.ejs" />
       </list>
     </option>
   </component>
@@ -173,7 +181,7 @@
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
@@ -219,11 +227,6 @@
             <path>
               <item name="nscars" type="b2602c69:ProjectViewProjectNode" />
               <item name="nscars" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nscars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nscars" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -254,14 +257,20 @@
               <item name="nscars" type="b2602c69:ProjectViewProjectNode" />
               <item name="nscars" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="landing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nscars" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nscars" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,25 +326,27 @@
       <workItem from="1515341822820" duration="17751000" />
       <workItem from="1516544849636" duration="11730000" />
       <workItem from="1516638573346" duration="56035000" />
-      <workItem from="1517409876567" duration="6316000" />
+      <workItem from="1517409876567" duration="10004000" />
+      <workItem from="1519475789186" duration="2825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91832000" />
+    <option name="totallyTimeSpent" value="98345000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20810167" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991204" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23796424" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25447044" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -358,6 +369,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/landing/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3375">
+          <caret line="225" column="57" lean-forward="false" selection-start-line="225" selection-start-column="57" selection-end-line="225" selection-end-column="57" />
+          <folding>
+            <marker date="1517508628743" expanded="false" signature="1969:2003" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="2045:2062" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21187:21204" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21517:21547" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32278:32295" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32706:32723" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/Landing.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -386,6 +412,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4275">
           <caret line="285" column="46" lean-forward="true" selection-start-line="285" selection-start-column="46" selection-end-line="285" selection-end-column="46" />
+          <folding>
+            <marker date="1517508628743" expanded="false" signature="1969:2003" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="2045:2062" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21187:21204" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21517:21547" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32278:32295" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32706:32723" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -393,6 +427,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="68" column="47" lean-forward="false" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -400,6 +435,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1517508628743" expanded="false" signature="1969:2003" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="2045:2062" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21187:21204" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21517:21547" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32278:32295" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32706:32723" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -450,7 +493,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-32">
           <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -458,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -466,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-617">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -489,7 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="244">
           <caret line="800" column="22" lean-forward="false" selection-start-line="800" selection-start-column="22" selection-end-line="800" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -504,14 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/myCSS/myCSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -561,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="127" lean-forward="true" selection-start-line="7" selection-start-column="73" selection-end-line="7" selection-end-column="127" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -581,18 +609,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="5335" column="7" lean-forward="false" selection-start-line="5335" selection-start-column="7" selection-end-line="5335" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/vue/Api.js" />
-    <entry file="file://$PROJECT_DIR$/views/landing/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3225">
-          <caret line="340" column="26" lean-forward="true" selection-start-line="340" selection-start-column="26" selection-end-line="340" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -607,13 +627,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/partials/Header.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="44" lean-forward="false" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/views/partials/Footer.ejs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -621,26 +634,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/vue/vue_first_page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/uploads/1517337083316-IMG_3503.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/uploads/1517337083316-IMG_3503.png" />
     <entry file="file://$PROJECT_DIR$/public/uploads/1517420004405-Passport image.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -654,42 +655,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/vue/vue_add.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/admin/new.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2">
-          <caret line="61" column="26" lean-forward="true" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/vue/vue_main_page.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/landing/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6563">
+          <caret line="225" column="57" lean-forward="false" selection-start-line="225" selection-start-column="57" selection-end-line="225" selection-end-column="57" />
+          <folding>
+            <marker date="1517508628743" expanded="false" signature="1969:2003" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="2045:2062" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21187:21204" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="21517:21547" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32278:32295" ph="..." />
+            <marker date="1517508628743" expanded="false" signature="32706:32723" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/Landing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2">
-          <caret line="20" column="31" lean-forward="false" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+        <state relative-caret-position="0">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/partials/Header.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/vue/vue_first_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/admin/main.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="210">
+          <caret line="14" column="58" lean-forward="false" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/myCSS/myCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/admin/new.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="27" column="32" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/vue/vue_add.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="33" lean-forward="true" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
           <folding />
         </state>
       </provider>

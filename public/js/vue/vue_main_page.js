@@ -16,7 +16,7 @@ new Vue({
 		},
 		mounted () {
 				let _this = this
-				api.get('/transports')
+				api.get('/getTransports')
 						 .then((response) => {
 								response.data.forEach(function (t) {
 									_this.transports.push(t)
